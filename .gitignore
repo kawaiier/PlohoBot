@@ -1,3 +1,4 @@
 .DS
 .env
 venv/
+.idea/
